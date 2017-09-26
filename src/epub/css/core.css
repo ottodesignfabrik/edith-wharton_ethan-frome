@@ -164,3 +164,9 @@ section[epub|type~="copyright-page"] blockquote p span{
 section[epub|type~="copyright-page"] blockquote br{
 	display: none;
 }
+
+blockquote.tombstone p{
+text-align: center;
+text-indent: 0;
+font-variant: small-caps;
+}
