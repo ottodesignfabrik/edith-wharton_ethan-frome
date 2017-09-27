@@ -170,3 +170,7 @@ text-align: center;
 text-indent: 0;
 font-variant: small-caps;
 }
+
+abbr.acronym{ 
+font-variant: all-small-caps; 
+}
